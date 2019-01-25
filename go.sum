@@ -1,0 +1,5 @@
+github.com/alecthomas/kong v0.1.15 h1:IWBg+KrLvoHBicD50OzMI8fKjrtAa1okMR9g38HVM/s=
+github.com/alecthomas/kong v0.1.15/go.mod h1:0m2VYms8rH0qbCqVB2gvGHk74bqLIq0HXjCs5bNbNQU=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
